@@ -1,0 +1,587 @@
+[
+  {
+    "question": "From each number, pick out the word whose underlined part is pronounced differently from the others.",
+    "answers": [
+      "A. out",
+      "B. round",
+      "C. about",
+      "D. would"
+    ],
+    "correct_answer": null,
+    "explanation": "D. w\nou\nld"
+  },
+  {
+    "question": "From each number, pick out the word whose underlined part is pronounced differently from the others.",
+    "answers": [
+      "A. chair",
+      "B. check",
+      "C. machine",
+      "D. child"
+    ],
+    "correct_answer": null,
+    "explanation": "C. ma\nch\ni\nne"
+  },
+  {
+    "question": "From each number, pick out the word whose underlined part is pronounced differently from the others.",
+    "answers": [
+      "A. too",
+      "B. soon",
+      "C. good",
+      "D. food"
+    ],
+    "correct_answer": null,
+    "explanation": "C. g\noo\nd"
+  },
+  {
+    "question": "From each number, pick out the word whose underlined part is pronounced differently from the others.",
+    "answers": [
+      "A. though",
+      "B. enough",
+      "C. cough",
+      "D. rough"
+    ],
+    "correct_answer": null,
+    "explanation": "A. thou\ngh"
+  },
+  {
+    "question": "From each number, pick out the word whose underlined part is pronounced differently from the others.",
+    "answers": [
+      "A. happy",
+      "B. hour",
+      "C. high",
+      "D. hotel"
+    ],
+    "correct_answer": null,
+    "explanation": "B.\nh\nour"
+  },
+  {
+    "question": "I have no idea what ……………….. the traditional drums.",
+    "answers": [
+      "A. to buy",
+      "B. buy",
+      "C. bought",
+      "D. buys"
+    ],
+    "correct_answer": null,
+    "explanation": "A"
+  },
+  {
+    "question": "Minh’s father often takes him ………………. the park every summer.",
+    "answers": [
+      "A. on",
+      "B. to",
+      "C. in",
+      "D. after"
+    ],
+    "correct_answer": null,
+    "explanation": "B"
+  },
+  {
+    "question": "A: I won the first prize in the English speaking contest. - B: ....................................",
+    "answers": [
+      "A. Stay calm. Everything will be alright!",
+      "B. Congratulation!",
+      "C. If I were you I would get some sleep.",
+      "D. I understand how you feel."
+    ],
+    "correct_answer": null,
+    "explanation": "A"
+  },
+  {
+    "question": "My father gave up smoking two years ago.",
+    "answers": [
+      "A. liked",
+      "B. continued",
+      "C. stopped",
+      "D. enjoyed"
+    ],
+    "correct_answer": null,
+    "explanation": "C"
+  },
+  {
+    "question": "....................... my cousin is young, she is one of the most skillful artisan in Bat Trang village.",
+    "answers": [
+      "A. When",
+      "B. Although",
+      "C. Whereas",
+      "D. In order to"
+    ],
+    "correct_answer": null,
+    "explanation": "C"
+  },
+  {
+    "question": "The amusement centre is so small that they cannot ................... the demand of the local residents.",
+    "answers": [
+      "A. keep up with",
+      "B. face up to",
+      "C. deal about",
+      "D. set up"
+    ],
+    "correct_answer": null,
+    "explanation": "C"
+  },
+  {
+    "question": "Karachi is ...................... city in the world population.",
+    "answers": [
+      "A. the two largest",
+      "B. the two larger",
+      "C. The second largest",
+      "D. the second larger"
+    ],
+    "correct_answer": null,
+    "explanation": "D"
+  },
+  {
+    "question": "He wondered ....................... his parents what he really thought.",
+    "answers": [
+      "A. whether he tell",
+      "B. whether tell",
+      "C. whether to tell",
+      "D. whether telling"
+    ],
+    "correct_answer": null,
+    "explanation": "B"
+  },
+  {
+    "question": "My parents once took me to Bat Trang village. I could make my own ...................... there. I really enjoyed it.",
+    "answers": [
+      "A. pottery",
+      "B. lacquer",
+      "C. painting",
+      "D. sculpture"
+    ],
+    "correct_answer": null,
+    "explanation": "B"
+  },
+  {
+    "question": "...................... he’s spent a lot of money to decorate his shop, he cannot make any more profit.",
+    "answers": [
+      "A. In order to",
+      "B. Although",
+      "C. So that",
+      "D. Because of"
+    ],
+    "correct_answer": null,
+    "explanation": "A"
+  },
+  {
+    "question": "Give the correct form of the verbs. My brother often (go) ……………….. to school by bike every day.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Goes"
+  },
+  {
+    "question": "Give the correct form of the verbs. If we use water carefully, more people (have ) ……………….. fresh water.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Will have"
+  },
+  {
+    "question": "Give the correct form of the verbs. My father enjoys (watch) ……………….. television in the evenings.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Watching/to watch"
+  },
+  {
+    "question": "Give the correct form of the verbs. Tuan and Huong (not/go) ……………….. to the cinema last night.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Didn’t go"
+  },
+  {
+    "question": "Give the correct form of the verbs. She said to me she (will) ……………….. do it if necessary I can.”",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Would"
+  },
+  {
+    "question": "Give the correct form of the verbs. Bat Trang pottery (develop) ………………….. since the 7 th century",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Has been developed"
+  },
+  {
+    "question": "Give the correct form of the verbs. Lots of Vietnamese girls like (wear) ………….…….. conical hats and ao dai.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "To wear"
+  },
+  {
+    "question": "Give the correct form of the verbs. The children (play) ……………….. football at the moment.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Are playing"
+  },
+  {
+    "question": "Give the correct form of the verbs. When I (come) ……………….. home from work yesterday, my mother was cooking dinner.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Came"
+  },
+  {
+    "question": "Give the correct form of the verbs. I don’ know many English words. I wish I (know) ……………….. more English words.",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Knew"
+  },
+  {
+    "question": "Read the passage, and then answer the questions: Last month, we went to Doi Tam, a village famous for its drum making techniques, in Ha Nam Province. The craft was first introduced to the village in the 8th or 9th century. Today there are more than six hundred drum makers living in Doi Tam village. I was amazed to see big drums in front of every house in the village. People say that it takes four workers three days to make a drum with a diameter of 1.5 metres. To make a drum, the craftsmen have to follow an eight stage process. Stretching the drumhead is the most challenging stage since they have to carefully assess the sound it makes. The other steps do not require such high skills. Nowadays, Doi Tam drums are not only famous in Viet Nam but are also sold to other countries such as Laos, Cambodia, Japan, and the USA. Questions 1. When was the craft first introduced to the village? ..........................................................................................................",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "The craft was first\nintroduced\nto the village in the 8th or 9th century."
+  },
+  {
+    "question": "Read the passage, and then answer the questions: Last month, we went to Doi Tam, a village famous for its drum making techniques, in Ha Nam Province. The craft was first introduced to the village in the 8th or 9th century. Today there are more than six hundred drum makers living in Doi Tam village. I was amazed to see big drums in front of every house in the village. People say that it takes four workers three days to make a drum with a diameter of 1.5 metres. To make a drum, the craftsmen have to follow an eight stage process. Stretching the drumhead is the most challenging stage since they have to carefully assess the sound it makes. The other steps do not require such high skills. Nowadays, Doi Tam drums are not only famous in Viet Nam but are also sold to other countries such as Laos, Cambodia, Japan, and the USA. Questions 2. How many stages do the craftsmen have to follow to make a drum? ..........................................................................................................",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "The craftsmen have to\nfollow\neight stages\nto make a drum."
+  },
+  {
+    "question": "Read the passage, and then answer the questions: Last month, we went to Doi Tam, a village famous for its drum making techniques, in Ha Nam Province. The craft was first introduced to the village in the 8th or 9th century. Today there are more than six hundred drum makers living in Doi Tam village. I was amazed to see big drums in front of every house in the village. People say that it takes four workers three days to make a drum with a diameter of 1.5 metres. To make a drum, the craftsmen have to follow an eight stage process. Stretching the drumhead is the most challenging stage since they have to carefully assess the sound it makes. The other steps do not require such high skills. Nowadays, Doi Tam drums are not only famous in Viet Nam but are also sold to other countries such as Laos, Cambodia, Japan, and the USA. Questions 3. Are Doi Tam drums sold to Japan, and the USA? ..........................................................................................................",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "Yes, they are."
+  },
+  {
+    "question": "Read the passage, and then answer the questions: Last month, we went to Doi Tam, a village famous for its drum making techniques, in Ha Nam Province. The craft was first introduced to the village in the 8th or 9th century. Today there are more than six hundred drum makers living in Doi Tam village. I was amazed to see big drums in front of every house in the village. People say that it takes four workers three days to make a drum with a diameter of 1.5 metres. To make a drum, the craftsmen have to follow an eight stage process. Stretching the drumhead is the most challenging stage since they have to carefully assess the sound it makes. The other steps do not require such high skills. Nowadays, Doi Tam drums are not only famous in Viet Nam but are also sold to other countries such as Laos, Cambodia, Japan, and the USA. Questions 4. Where is Doi Tam village? ..........................................................................................................",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "Read the following passage and circle the letter A, B, C or D to indicate the correct word. My village is (1)……… Hoa Binh Province. It is a very beautiful and (2)………… place where people (3)…………… flowers and vegetables only. It is very famous for its pretty roses and picturesque scenery. The air is quite fresh; however, the smell of roses makes people feel cool. In spring, my village looks like a carpet with plenty of (4) ………. Tourists come to visit it so often. Nowadays, with electricity and labor- saving devices, it doesn’t take the villagers (5)…………. time to water the roses. And even at night, People can walk along the path and enjoy the fresh smell of the flowers. Questions 1:",
+    "answers": [
+      "A. on",
+      "B. for",
+      "C. in",
+      "D. at"
+    ],
+    "correct_answer": null,
+    "explanation": "C. in"
+  },
+  {
+    "question": "Read the following passage and circle the letter A, B, C or D to indicate the correct word. My village is (1)……… Hoa Binh Province. It is a very beautiful and (2)………… place where people (3)…………… flowers and vegetables only. It is very famous for its pretty roses and picturesque scenery. The air is quite fresh; however, the smell of roses makes people feel cool. In spring, my village looks like a carpet with plenty of (4) ………. Tourists come to visit it so often. Nowadays, with electricity and labor- saving devices, it doesn’t take the villagers (5)…………. time to water the roses. And even at night, People can walk along the path and enjoy the fresh smell of the flowers. Questions 2:",
+    "answers": [
+      "A. peace",
+      "B. peaceful",
+      "C. peacefully",
+      "D. quite"
+    ],
+    "correct_answer": null,
+    "explanation": "B. peaceful"
+  },
+  {
+    "question": "Read the following passage and circle the letter A, B, C or D to indicate the correct word. My village is (1)……… Hoa Binh Province. It is a very beautiful and (2)………… place where people (3)…………… flowers and vegetables only. It is very famous for its pretty roses and picturesque scenery. The air is quite fresh; however, the smell of roses makes people feel cool. In spring, my village looks like a carpet with plenty of (4) ………. Tourists come to visit it so often. Nowadays, with electricity and labor- saving devices, it doesn’t take the villagers (5)…………. time to water the roses. And even at night, People can walk along the path and enjoy the fresh smell of the flowers. Questions 3:",
+    "answers": [
+      "A. grow",
+      "B. buy",
+      "C. grew",
+      "D. bought"
+    ],
+    "correct_answer": null,
+    "explanation": "A. grow"
+  },
+  {
+    "question": "Read the following passage and circle the letter A, B, C or D to indicate the correct word. My village is (1)……… Hoa Binh Province. It is a very beautiful and (2)………… place where people (3)…………… flowers and vegetables only. It is very famous for its pretty roses and picturesque scenery. The air is quite fresh; however, the smell of roses makes people feel cool. In spring, my village looks like a carpet with plenty of (4) ………. Tourists come to visit it so often. Nowadays, with electricity and labor- saving devices, it doesn’t take the villagers (5)…………. time to water the roses. And even at night, People can walk along the path and enjoy the fresh smell of the flowers. Question 4:",
+    "answers": [
+      "A. colors",
+      "B. marks",
+      "C. spots",
+      "D. styles"
+    ],
+    "correct_answer": null,
+    "explanation": "A. colors"
+  },
+  {
+    "question": "Read the following passage and circle the letter A, B, C or D to indicate the correct word. My village is (1)……… Hoa Binh Province. It is a very beautiful and (2)………… place where people (3)…………… flowers and vegetables only. It is very famous for its pretty roses and picturesque scenery. The air is quite fresh; however, the smell of roses makes people feel cool. In spring, my village looks like a carpet with plenty of (4) ………. Tourists come to visit it so often. Nowadays, with electricity and labor- saving devices, it doesn’t take the villagers (5)…………. time to water the roses. And even at night, People can walk along the path and enjoy the fresh smell of the flowers. Question 5:",
+    "answers": [
+      "A. many",
+      "B. a few",
+      "C. a lot",
+      "D. much"
+    ],
+    "correct_answer": null,
+    "explanation": "D. much"
+  },
+  {
+    "question": "Rewrite the following sentences without changing their original meanings. I have no idea when I should take that English test. TO → I have ........................................................................................",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "→ I have no idea to take that English test."
+  },
+  {
+    "question": "Rewrite the following sentences without changing their original meanings. “ Do you try calling a helpline?” the teacher asked Ngoc. IF → The teacher asked Ngoc ……………………………………………………",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "→ The teacher asked Ngoc if she tried calling a helpline."
+  },
+  {
+    "question": "Rewrite the following sentences without changing their original meanings. His parents raised him very strictly. UP → His parents ………………………………………………………………….",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "→ His parents brought him up very strictly."
+  },
+  {
+    "question": "Rewrite the following sentences without changing their original meanings. “Should I tell this to her?” he asked himself. WHETHER → He wondered ………………………………………………………………",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "→ He wondered whether to tell that to her."
+  },
+  {
+    "question": "Rewrite the following sentences without changing their original meanings. It’s the first time Mary has gone to Viet Nam. BEFORE -> Mary has …………………………………………………………………….",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "→ Mary has never gone to Viet Nam before"
+  },
+  {
+    "question": "Complete the following sentences. Even though it was very cold out , ……………………………………………………………………",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "depend on sts’anwser"
+  },
+  {
+    "question": "Complete the following sentences. I studied hard for the exam so that …………………………………………………………………..",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "depend on sts’anwser"
+  },
+  {
+    "question": "Complete the following sentences. I Wish ………………………………………………………………………….",
+    "answers": [],
+    "correct_answer": null,
+    "explanation": "depend on sts’anwser"
+  },
+  {
+    "question": "Choose the word which contains the vowel sound pronounced differently from that of the others.",
+    "answers": [
+      "a. publish",
+      "b. tunic",
+      "c. subject",
+      "d. love"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Choose the word which contains the vowel sound pronounced differently from that of the others.",
+    "answers": [
+      "a. hike",
+      "b. style",
+      "c. stripe",
+      "d. slit"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Choose the word which contains the vowel sound pronounced differently from that of the others.",
+    "answers": [
+      "a. grow",
+      "b. plow",
+      "c. now",
+      "d. house"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Choose the word which contains the vowel sound pronounced differently from that of the others.",
+    "answers": [
+      "a. order",
+      "b. course",
+      "c. ghost",
+      "d. cross"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Choose the word which contains the vowel sound pronounced differently from that of the others.",
+    "answers": [
+      "a. notice",
+      "b. mosque",
+      "c. grow",
+      "d. poetry"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Add question tags to the following statements. You live near here, ___________________?",
+    "answers": [],
+    "correct_answer": "D",
+    "explanation": "on’t you"
+  },
+  {
+    "question": "There was a mistake, ___________________?",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "Mr. John usually remembered his wife’s birthday, ___________________?",
+    "answers": [],
+    "correct_answer": "D",
+    "explanation": "idn’t he"
+  },
+  {
+    "question": "Your central heating doesn’t work very well, ___________________?",
+    "answers": [],
+    "correct_answer": "D",
+    "explanation": "oes it"
+  },
+  {
+    "question": "Bill put his money in the bank, ___________________?",
+    "answers": [],
+    "correct_answer": "D",
+    "explanation": "idn’t he"
+  },
+  {
+    "question": "James hasn’t got a pen, ___________________?",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "You couldn’t do me a favour, ___________________?",
+    "answers": [],
+    "correct_answer": "C",
+    "explanation": "ould you"
+  },
+  {
+    "question": "You are listening to music, ___________________?",
+    "answers": [],
+    "correct_answer": "A",
+    "explanation": "ren’t you"
+  },
+  {
+    "question": "You haven’t heard a forecast for the weekend, ___________________?",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "Tim doesn’t look very well today, ___________________?",
+    "answers": [],
+    "correct_answer": "D",
+    "explanation": "oes he"
+  },
+  {
+    "question": "Choose a, b, c or d to complete these sentences. They _________ Da Lat last summer.",
+    "answers": [
+      "a. visit",
+      "b. to visit",
+      "c. visited",
+      "d. visiting"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "We have learnt English_________2003.",
+    "answers": [
+      "a. for",
+      "b. since",
+      "c. in",
+      "d. at"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Ba can’t fly. He wishes he_________fly.",
+    "answers": [
+      "a. can",
+      "b. will",
+      "c. is",
+      "d. could"
+    ],
+    "correct_answer": "D",
+    "explanation": "S+ wish+ S+ V lùi thì"
+  },
+  {
+    "question": "He is a teacher, _________?",
+    "answers": [
+      "a. is he",
+      "b. doesn’t he",
+      "c. wasn’t he",
+      "d. isn’t he"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "He is tired, _________ he has to stay up late.",
+    "answers": [
+      "a. therefore",
+      "b. so",
+      "c. and",
+      "d. but"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "The car_________ in Japan.",
+    "answers": [
+      "a. is made",
+      "b. makes",
+      "c. made",
+      "d. are made"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Tom said that he_________ in the city.",
+    "answers": [
+      "a. living",
+      "b. to visit",
+      "c. visited",
+      "d. visiting"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Let’s play soccer, _________?",
+    "answers": [
+      "a. aren’t you",
+      "b. won’t you",
+      "c. will we",
+      "d. shall we"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "I used to_________ up late when I was a child.",
+    "answers": [
+      "a. getting",
+      "b. got",
+      "c. get",
+      "d. to get"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "He_________ playing guitar at night.",
+    "answers": [
+      "a. is used to",
+      "b. used to",
+      "c. use to",
+      "d. are used to"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Choose the correct form of verbs. I do not enjoy (go)____________ to the dentist.",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "Try to avoid (make)_____________ him angry.",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "He hates (borrow)___________________ money.",
+    "answers": [],
+    "correct_answer": "B",
+    "explanation": "orrowing"
+  },
+  {
+    "question": "Do you love (read)_____________________ novels?",
+    "answers": [],
+    "correct_answer": null
+  },
+  {
+    "question": "No, I do not. I enjoy (read)__________________ picture books.",
+    "answers": [],
+    "correct_answer": null
+  }
+]
