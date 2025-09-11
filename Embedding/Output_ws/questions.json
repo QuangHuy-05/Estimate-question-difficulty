@@ -1,0 +1,707 @@
+[
+    {
+        "id": 1,
+        "subject": "Văn_học",
+        "question": "Từ Văn_hoá trong văn_bản Phong_cách Hồ_Chí_Minh được hiểu",
+        "options": [
+            "Học_vấn",
+            "Học_tập",
+            "Học_lực",
+            "Học_hành"
+        ],
+        "answer": "Học_vấn"
+    },
+    {
+        "id": 2,
+        "subject": "Văn_học",
+        "question": "Ý nào nói lên việc tiếp_thu có chọn_lọc tinh_hoa văn_hoá nước_ngoài của Hồ_Chí_Minh không được nêu trong bài viết",
+        "options": [
+            "Tiếp_thu mọi cái đẹp cái hay đồng_thời phê_phán những hạn_chế tiêu_cực",
+            "Không ảnh_hưởng một_cách thụ_động",
+            "Trên nền_tảng văn_hoá dân_tộc mà tiếp_thu những ảnh_hưởng quốc_tế",
+            "Luôn_luôn đề_cao bản_sắc văn_hoá của dân_tộc"
+        ],
+        "answer": "Luôn_luôn đề_cao bản_sắc văn_hoá của dân_tộc"
+    },
+    {
+        "id": 3,
+        "subject": "Văn_học",
+        "question": "Vấn_đề chủ_yếu được nói tới trong văn_bản Phong_cách Hồ_Chí_Minh là gì",
+        "options": [
+            "Phong_cách làm_việc và nếp sống của Chủ_tịch Hồ_Chí_Minh",
+            "Tình_cảm của người_dân Việt_Nam đối_với Chủ_tịch Hồ_Chí_Minh",
+            "Trí_tuệ tuyệt_vời của Chủ_tịch Hồ_Chí_Minh",
+            "Tinh_thần chiến_đấu dũng_cảm của Chủ_tịch Hồ_Chí_Minh"
+        ],
+        "answer": "Phong_cách làm_việc và nếp sống của Chủ_tịch Hồ_Chí_Minh"
+    },
+    {
+        "id": 4,
+        "subject": "Văn_học",
+        "question": "Theo tác_giả quan_niệm thẩm_mĩ về cuộc_sống của Chủ_tịch Hồ_Chí_Minh là gì",
+        "options": [
+            "Có hiểu_biết cao sâu để được người_đời tôn_trọng",
+            "Đã là con_người phải có đạo_đức hoàn_toàn trong_sáng",
+            "Phải tạo cho mình một lối sống khác đời hơn người",
+            "Cái đẹp là sự giản_dị tự_nhiên thanh_cao"
+        ],
+        "answer": "Cái đẹp là sự giản_dị tự_nhiên thanh_cao"
+    },
+    {
+        "id": 5,
+        "subject": "Văn_học",
+        "question": "Từ nào sau đây trái_nghĩa với truân_chuyên",
+        "options": [
+            "Vất_vả",
+            "Nhọc_nhằn",
+            "Gian_nan",
+            "Nhàn_nhã"
+        ],
+        "answer": "Nhàn_nhã"
+    },
+    {
+        "id": 6,
+        "subject": "Văn_học",
+        "question": "Trong đoạn văn sau tác_giả đã sử_dụng biện_pháp nghệ_thuật gì để làm nổi_bật phong_cách của Hồ_Chí_Minh Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải là một_cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm thẩm_mĩ về cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác",
+        "options": [
+            "Sử_dụng phép nói quá",
+            "Sử_dụng phép đối_lập",
+            "Sử_dụng phép tăng_tiến",
+            "Sử_dụng phép nói giảm nói tránh"
+        ],
+        "answer": "Sử_dụng phép tăng_tiến"
+    },
+    {
+        "id": 7,
+        "subject": "Văn_học",
+        "question": "Chủ_tịch Hồ_Chí_Minh được UNESCO công_nhận là",
+        "options": [
+            "Nhà cách_mạng lỗi_lạc",
+            "Danh_nhân văn_hoá thế_giới",
+            "Nhà hiền_triết phương đông"
+        ],
+        "answer": "Danh_nhân văn_hoá thế_giới"
+    },
+    {
+        "id": 8,
+        "subject": "Văn_học",
+        "question": "Em hiểu từ phong_cách trong Phong_cách Hồ_Chí_Minh có nghĩa là gì",
+        "options": [
+            "Đặc_điểm có tính_chất hệ_thống về tư_tưởng và nghệ_thuật biểu_hiện trong_sáng_tác của một nghệ_sĩ hay trong các sáng_tác nói_chung thuộc cùng một thể loại",
+            "Lối sống cung_cách sinh_hoạt làm_việc hoạt_động ứng_xử tạo nên cái riêng của một người nào đó",
+            "Dạng ngôn_ngữ sử_dụng theo yêu_cầu chức_năng điển_hình nào đó khác với những dạng khác về đặc_điểm từ_vựng ngữ_âm ngữ_pháp",
+            "Cả A B C đều đúng"
+        ],
+        "answer": "Lối sống cung_cách sinh_hoạt làm_việc hoạt_động ứng_xử tạo nên cái riêng của một người nào đó"
+    },
+    {
+        "id": 9,
+        "subject": "Văn_học",
+        "question": "Đoạn văn sau được viết theo phương_thức biểu_đạt chính nào Trong cuộc_đời đầy truân_chuyên của mình Chủ_tịch Hồ_Chí_Minh đã tiếp_xúc với văn_hoá nhiều nước nhiều vùng trên thế_giới cả ở phương Đông và phương Tây_Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã từng sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga và Người đã làm nhiều nghề",
+        "options": [
+            "Thuyết_minh",
+            "Nghị_luận",
+            "Biểu_cảm",
+            "Miêu_tả"
+        ],
+        "answer": "Thuyết_minh"
+    },
+    {
+        "id": 10,
+        "subject": "Văn_học",
+        "question": "Phong_cách sống của Hồ_Chí_Minh được tác_giả so_sánh với những_ai",
+        "options": [
+            "Các danh_nho Trung_Quốc Lí_Bạch_Khổng_Tử",
+            "Các vị lãnh_tụ trên thế_giới",
+            "Các danh_nho Việt_Nam thời xưa Nguyễn_Bỉnh_Khiêm_Nguyễn Trãi",
+            "Các vị lãnh_tụ Việt_Nam đương_thời"
+        ],
+        "answer": "Các danh_nho Việt_Nam thời xưa Nguyễn_Bỉnh_Khiêm_Nguyễn Trãi"
+    },
+    {
+        "id": 11,
+        "subject": "Văn_học",
+        "question": "Hồ_Chí_Minh đã tiếp_thu giá_trị của những nền văn_hoá nào",
+        "options": [
+            "Anh Pháp Mĩ",
+            "Phương_Đông_Phương_Tây",
+            "Trung_quốc Lào",
+            "Châu_Âu Châu_Á"
+        ],
+        "answer": "Phương_Đông_Phương_Tây"
+    },
+    {
+        "id": 12,
+        "subject": "Văn_học",
+        "question": "Ý nào sau đây không đúng khi nói về văn_bản Phong_cách Hồ_Chí_Minh",
+        "options": [
+            "Tác_giả văn_bản là Lê_Anh_Trà",
+            "Xuất_bản năm 1990 nhân kỉ_niệm 100 năm ngày_sinh của chủ_tịch HCM",
+            "Thuộc thể_loại văn_bản thuyết_minh",
+            "Nội_dung văn_bản cho thấy nét đẹp trong phong_cách Hồ_Chí_Minh"
+        ],
+        "answer": "Thuộc thể_loại văn_bản thuyết_minh"
+    },
+    {
+        "id": 13,
+        "subject": "Văn_học",
+        "question": "Theo em cụm_từ quan_niệm thẩm_mĩ trong câu Nếp sống giản_dị và thanh_đạm của Bác_Hồ là một quan_niệm thẩm_mĩ về cuộc_sống có nghĩa là gì",
+        "options": [
+            "Quan_niệm về cái đẹp",
+            "Quan_niệm về đạo_đức",
+            "Quan_niệm về cuộc_sống",
+            "Quan_niệm về nghề_nghiệp"
+        ],
+        "answer": "Quan_niệm về cái đẹp"
+    },
+    {
+        "id": 14,
+        "subject": "Văn_học",
+        "question": "Phương_thức biểu_đạt chính trong văn_bản phong_cách Hồ_Chí_Minh là",
+        "options": [
+            "Tự_sự kết_hợp với thuyết_minh",
+            "Tự_sự kết_hợp với nghị_luận",
+            "Thuyết_minh kết_hợp với nghị_luận",
+            "Miêu_tả kết_hợp với nghị_luận"
+        ],
+        "answer": "Tự_sự kết_hợp với thuyết_minh"
+    },
+    {
+        "id": 15,
+        "subject": "Văn_học",
+        "question": "Vấn_đề chủ_yếu được nói đến trong Văn_bản phong_cách Hồ_Chí_Minh là",
+        "options": [
+            "Tình_cảm của chủ_tịch Hồ_Chí_Minh",
+            "Trí_tuệ của chủ_tịch Hồ_Chí_Minh",
+            "Phong_cách làm_việc và nếp sống của chủ_tịch Hồ_Chí_Minh",
+            "Cả A và B đều đúng"
+        ],
+        "answer": "Phong_cách làm_việc và nếp sống của chủ_tịch Hồ_Chí_Minh"
+    },
+    {
+        "id": 16,
+        "subject": "Văn_học",
+        "question": "Trong bài viết tác_giả cho rằng Nếp sống giản_dị và thanh_đạm của Bác_Hồ là một quan_niệm thẩm_mĩ về cuộc_sống Theo em cụm_từ quan_niệm thẩm_mĩ là gì",
+        "options": [
+            "Quan_niệm về cái đẹp",
+            "Quan_niệm cuộc_sống",
+            "Quan_niệm về đạo_đức",
+            "Quan_niệm về nghề_nghiệp"
+        ],
+        "answer": "Quan_niệm về cái đẹp"
+    },
+    {
+        "id": 18,
+        "subject": "Văn_học",
+        "question": "Trong các từ sau từ nào không phải là từ Hán_Việt",
+        "options": [
+            "Lãnh_tụ",
+            "Hiền_triết",
+            "Vua",
+            "Danh_nho"
+        ],
+        "answer": "Vua"
+    },
+    {
+        "id": 19,
+        "subject": "Văn_học",
+        "question": "Trong đoạn văn sau tác_giả sử_dụng biện_pháp nghệ_thuật gì để làm nổi_bật phong_cách Hồ_Chí_Minh Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là một lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm về thẩm_mĩ cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác",
+        "options": [
+            "Sử_dụng phép nói giảm nói tránh",
+            "Sử_dụng phép nói quá",
+            "Sử_dụng phép đối_lập",
+            "Sử_dụng phép tăng_tiến"
+        ],
+        "answer": "Sử_dụng phép tăng_tiến"
+    },
+    {
+        "id": 20,
+        "subject": "Văn_học",
+        "question": "Lối sống của Bác là sự kết_hợp giữa giản_dị và thanh_cao vì sao",
+        "options": [
+            "Đây không phải lối sống kham_khổ của người tự tìm vui trong cảnh nghèo",
+            "Bản_lĩnh của người chiến_sĩ hoà với tâm_hồn nhà_thơ",
+            "Vẻ đẹp tâm_hồn Người mạnh_mẽ song cũng rất lãng_mạn",
+            "Cả 3 đáp_án trên"
+        ],
+        "answer": "Cả 3 đáp_án trên"
+    },
+    {
+        "id": 21,
+        "subject": "Văn_học",
+        "question": "Trong quá_trình tiếp_thu tinh_hoa văn_hoá nước_ngoài Người tiếp_thu một_cách có chọn_lọc không ảnh_hưởng thụ_động biết tiếp_thu cái hay cái đẹp phê_phán hạn_chế tiêu_cực đúng hay sai",
+        "options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": "Đúng"
+    },
+    {
+        "id": 22,
+        "subject": "Văn_học",
+        "question": "Chọn từ thích_hợp để điền vào chỗ trống Đó là cách sống giản_dị đạm_bạc nhưng rất của Hồ_Chí_Minh",
+        "options": [
+            "Khác đời hơn đời",
+            "Đa_dạng phong_phú",
+            "Thanh_cao",
+            "Cầu_kì phức_tạp"
+        ],
+        "answer": "Thanh_cao"
+    },
+    {
+        "id": 23,
+        "subject": "Văn_học",
+        "question": "Tác_giả của bài Phong_cách Hồ_Chí_Minh là ai",
+        "options": [
+            "Lê_Anh_Trà",
+            "Phạm_Văn_Đồng",
+            "Lê_Duẩn",
+            "Đặng_Thai_Mai"
+        ],
+        "answer": "Lê_Anh_Trà"
+    },
+    {
+        "id": 24,
+        "subject": "Văn_học",
+        "question": "Phong_cách của Hồ_Chí_Minh là sự kết_hợp giữa",
+        "options": [
+            "Vĩ_đại và bình_dị",
+            "Truyền_thống và hiện_đại",
+            "Dân_tộc và nhân_loại",
+            "Cả ba đáp_án trên"
+        ],
+        "answer": "Cả ba đáp_án trên"
+    },
+    {
+        "id": 25,
+        "subject": "Văn_học",
+        "question": "Vì sao Hồ_Chủ_tịch lại có vốn văn_hoá sâu_rộng",
+        "options": [
+            "Học_tập để nói viết thạo tiếng nước_ngoài Anh Pháp Hoa",
+            "Đi nhiều nơi làm nhiều nghề học_hỏi từ thực_tiễn lao_động",
+            "Tìm_hiểu văn_hoá nghệ_thuật của khu_vực khác nhau trên thế_giới một_cách sâu_sắc uyên_thâm",
+            "Cả 3 đáp_án trên"
+        ],
+        "answer": "Cả 3 đáp_án trên"
+    },
+    {
+        "id": 26,
+        "subject": "Văn_học",
+        "question": "Văn_bản này thuộc thể_loại nào",
+        "options": [
+            "Tự_sự",
+            "Trữ_tình",
+            "Thuyết_minh",
+            "Nhật_dụng sử_dụng yếu_tố nghị_luận"
+        ],
+        "answer": "Nhật_dụng sử_dụng yếu_tố nghị_luận"
+    },
+    {
+        "id": 27,
+        "subject": "Văn_học",
+        "question": "Lối sống rất bình_dị rất Việt_Nam rất phương Đông của Bác được thể_hiện như_thế_nào",
+        "options": [
+            "Nơi ở và nơi làm_việc mộc_mạc đơn_sơ",
+            "Trang_phục giản_dị bộ quần_áo bà_ba nâu chiếc áo_trấn_thủ đôi dép lốp",
+            "Ăn_uống đạm_bạc cá kho rau luộc dưa ghém cà muối",
+            "Cả 3 đáp_án trên"
+        ],
+        "answer": "Cả 3 đáp_án trên"
+    },
+    {
+        "id": 28,
+        "subject": "Văn_học",
+        "question": "Phong_cách của Hồ_Chí_Minh là sự kết_hợp giữa",
+        "options": [
+            "Vĩ_đại và bình_dị",
+            "Truyền_thống và hiện_đại",
+            "Dân_tộc và nhân_loại",
+            "Cả ba đáp_án trên"
+        ],
+        "answer": "Dân_tộc và nhân_loại"
+    },
+    {
+        "id": 29,
+        "subject": "Văn_học",
+        "question": "Tác_giả của bài Phong_cách Hồ_Chí_Minh là ai",
+        "options": [
+            "Lê_Anh_Trà",
+            "Phạm_Văn_Đồng",
+            "Lê_Duẩn",
+            "Đặng_Thai_Mai"
+        ],
+        "answer": "Lê_Duẩn"
+    },
+    {
+        "id": 30,
+        "subject": "Văn_học",
+        "question": "Vấn_đề chủ_yếu được tác_giả nói tới trong văn_bản Phong_cách Hồ_Chí_Minh là gì",
+        "options": [
+            "Tinh_thần chiến_đấu dũng_cảm của chủ_tịch Hồ_Chí_Minh",
+            "Phong_cách làm_việc và nếp sống của chủ_tịch Hồ_Chí_Minh",
+            "Tình_cảm của người_dân Việt_Nam đối_với Chủ_tịch Hồ_Chí_Minh",
+            "Trí_tuệ tuyệt_vời của chủ_tịch Hồ_Chí_Minh"
+        ],
+        "answer": "Tình_cảm của người_dân Việt_Nam đối_với Chủ_tịch Hồ_Chí_Minh"
+    },
+    {
+        "id": 31,
+        "subject": "Văn_học",
+        "question": "Văn_bản này thuộc thể_loại nào",
+        "options": [
+            "Truyện_ngắn",
+            "Tiểu_thuyết",
+            "Hồi_ký",
+            "Nhật_dụng"
+        ],
+        "answer": "Hồi_ký"
+    },
+    {
+        "id": 32,
+        "subject": "Văn_học",
+        "question": "Chọn từ thích_hợp để điền vào chỗ trống Đó là cách sống giản_dị đạm_bạc nhưng rất của Hồ_Chí_Minh",
+        "options": [
+            "Khác đời hơn đời",
+            "Đa_dạng phong_phú",
+            "Thanh_cao",
+            "Cầu_kì phức_tạp"
+        ],
+        "answer": "Thanh_cao"
+    },
+    {
+        "id": 33,
+        "subject": "Văn_học",
+        "question": "Em hiểu từ phong_cách trong phong_cách Hồ_Chí_Minh có nghĩa là gì",
+        "options": [
+            "Lối sống cung_cách sinh_hoạt làm_việc hoạt_động ứng_xử tạo nên cái riêng của một người nào đó",
+            "Đặc_điểm có tính_chất hệ_thống về tư_tưởng và nghệ_thuật biểu_hiện trong_sáng_tác của một nghệ_sĩ hay trong các sáng_tác nói_chung thuộc cùng một thể loại",
+            "Dạng ngôn_ngữ sử_dụng theo yêu_cầu chức_năng điển_hình nào đó khác với những dạng khác về đặc_điểm từ_vựng ngữ_âm ngữ_pháp",
+            "Cả A B C đều đúng"
+        ],
+        "answer": "Dạng ngôn_ngữ sử_dụng theo yêu_cầu chức_năng điển_hình nào đó khác với những dạng khác về đặc_điểm từ_vựng ngữ_âm ngữ_pháp"
+    },
+    {
+        "id": 34,
+        "subject": "Văn_học",
+        "question": "Để làm nổi_bật lối sống rất giản_dị của Hồ_Chí_Minh tác_giả đã sử_dụng phương_thức lập_luận nào",
+        "options": [
+            "Chứng_minh",
+            "Bình_luận",
+            "Giải_thích",
+            "Phân_tích"
+        ],
+        "answer": "Giải_thích"
+    },
+    {
+        "id": 35,
+        "subject": "Văn_học",
+        "question": "Trong bài viết tác_giả cho rằng Nếp sống giản_dị và thanh_đạm của Bác_Hồ là một quan_niệm thẩm_mĩ về cuộc_sống Theo em cụm_từ quan_niệm thẩm_mĩ là gì",
+        "options": [
+            "Quan_niệm về đạo_đức",
+            "Quan_niệm cuộc_sống",
+            "Quan_niệm về cái đẹp",
+            "Quan_niệm về nghề_nghiệp"
+        ],
+        "answer": "Quan_niệm về cái đẹp"
+    },
+    {
+        "id": 36,
+        "subject": "Văn_học",
+        "question": "Trong bài viết để làm nổi_bật vẻ đẹp của phong_cách Hồ_Chí_Minh tác_giả không sử_dụng biện_pháp nghệ_thuật nào",
+        "options": [
+            "Kết_hợp giữa kể và bình_luận",
+            "Sử_dụng phép đối_lập",
+            "Sử_dụng phép nói quá",
+            "So_sánh và sử_dụng nhiều từ Hán_Việt"
+        ],
+        "answer": "Sử_dụng phép nói quá"
+    },
+    {
+        "id": 37,
+        "subject": "Văn_học",
+        "question": "Văn_bản Phong_cách Hồ_Chí_Minh sử_dụng phương_thức biểu_đạt chính là gì",
+        "options": [
+            "Miêu_tả",
+            "Biểu_cảm",
+            "Nghị_luận",
+            "Tự_sự"
+        ],
+        "answer": "Nghị_luận"
+    },
+    {
+        "id": 38,
+        "subject": "Văn_học",
+        "question": "Để viết mở bài phân_tích văn_bản Phong_cách Hồ_Chí_Minh cần đảm_bảo ý nào sau đây",
+        "options": [
+            "Giới_thiệu khái_quát về Hồ_Chí_Minh vị lãnh_tụ vĩ_đại của dân_tộc",
+            "Giới_thiệu khái_quát về tác_giả Lê_Anh_Trà và sơ_lược tác_phẩm Phong_cách Hồ_Chí_Minh",
+            "Giới_thiệu về phong_cách sống",
+            "Tất_cả các phương_án trên"
+        ],
+        "answer": "Giới_thiệu về phong_cách sống"
+    },
+    {
+        "id": 39,
+        "subject": "Văn_học",
+        "question": "Vì sao Hồ_Chủ_tịch lại có vốn văn_hoá sâu_rộng",
+        "options": [
+            "Học_tập để nói viết thạo tiếng nước_ngoài Anh Pháp Hoa",
+            "Đi nhiều nơi làm nhiều nghề học_hỏi từ thực_tiễn lao_động",
+            "Tìm_hiểu văn_hoá nghệ_thuật của khu_vực khác nhau trên thế_giới một_cách sâu_sắc uyên_thâm",
+            "Cả 3 đáp_án trên"
+        ],
+        "answer": "Tìm_hiểu văn_hoá nghệ_thuật của khu_vực khác nhau trên thế_giới một_cách sâu_sắc uyên_thâm"
+    },
+    {
+        "id": 41,
+        "subject": "Văn_học",
+        "question": "Ý nào nói đúng nhất những phương_diện thể_hiện lối sống giản_dị của chủ_tịch Hồ_Chí_Minh",
+        "options": [
+            "Nơi ở và nơi làm_việc",
+            "Trang_phục",
+            "Ăn_uống và nơi ở",
+            "Cả 3 đáp_án trên"
+        ],
+        "answer": "Ăn_uống và nơi ở"
+    },
+    {
+        "id": 42,
+        "subject": "Văn_học",
+        "question": "Trong bài viết Phong_cách Hồ_Chí_Minh tác_giả so_sánh lối sống của Bác_Hồ với lối sống của những_ai",
+        "options": [
+            "Những vị lãnh_tụ của các dân_tộc trên thế_giới",
+            "Các danh_nho Việt_Nam thời xưa",
+            "Các danh_nho Trung_Quốc thời xưa",
+            "Các vị lãnh_đạo nhà_nước ta đương_thời"
+        ],
+        "answer": "Các danh_nho Trung_Quốc thời xưa"
+    },
+    {
+        "id": 43,
+        "subject": "Văn_học",
+        "question": "Lối sống của Bác là sự kết_hợp giữa giản_dị và thanh_cao vì sao",
+        "options": [
+            "Đây không phải lối sống kham_khổ của người tự tìm vui trong cảnh nghèo",
+            "Bản_lĩnh của người chiến_sĩ hoà với tâm_hồn nhà_thơ",
+            "Vẻ đẹp tâm_hồn Người mạnh_mẽ song cũng rất lãng_mạn",
+            "Cả 3 đáp_án trên"
+        ],
+        "answer": "Vẻ đẹp tâm_hồn Người mạnh_mẽ song cũng rất lãng_mạn"
+    },
+    {
+        "id": 44,
+        "subject": "Văn_học",
+        "question": "Trong đoạn văn sau tác_giả sử_dụng biện_pháp nghệ_thuật gì để làm nổi_bật phong_cách Hồ_Chí_Minh Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là một lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm về thẩm_mĩ cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác",
+        "options": [
+            "Sử_dụng phép nói giảm nói tránh",
+            "Sử_dụng phép nói quá",
+            "Sử_dụng phép đối_lập",
+            "Sử_dụng phép tăng_tiến"
+        ],
+        "answer": "Sử_dụng phép đối_lập"
+    },
+    {
+        "id": 45,
+        "subject": "Văn_học",
+        "question": "Bài_học rút ra từ phẩm_chất của Bác qua văn_bản Phong_cách Hồ_Chí_Minh là gì",
+        "options": [
+            "Tấm lòng nhân_hậu bao_dung",
+            "Lối sống giản_dị thanh_cao và ý_thức giữ_gìn bản_sắc dân_tộc",
+            "Đức_tính tiết_kiệm",
+            "Sự liêm_chính trong công_việc"
+        ],
+        "answer": "Đức_tính tiết_kiệm"
+    },
+    {
+        "id": 46,
+        "subject": "Văn_học",
+        "question": "Tại_sao tác_giả lại gọi Bác là một nhân_cách rất Việt_Nam",
+        "options": [
+            "Vì Bác được sinh ra ở Việt_Nam",
+            "Vì Bác tiếp_thu văn_hoá thế_giới có chọn_lọc và vẫn giữ cái gốc văn_hoá dân_tộc",
+            "Vì Bác là một người_yêu nước vĩ_đại",
+            "Vì Bác đã có công_khai sinh ra đất_nước Việt_Nam"
+        ],
+        "answer": "Vì Bác là một người_yêu nước vĩ_đại"
+    },
+    {
+        "id": 47,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời câu hỏi Và Người sống ở đó một_mình với một tư_trang ít_ỏi một chiếc va_li con với vài bộ áo_quần vài vật kỉ_niệm của cuộc_đời dài Tôi dám chắc không có một vị lãnh_tụ một vị tổng_thống hay một vị vua hiền nào ngày trước lại sống đến mức giản_dị và tiết_chế như_vậy Bất_giác ta nghĩ đến các vị hiền_triết ngày_xưa như Nguyễn_Trãi ở Côn_Sơn hay Nguyễn_Bỉnh_Khiêm sống ở quê nhà với những thú quê thuần đức Thu ăn măng trúc đông ăn_giá Xuân tắm hồ_sen hạ tắm ao Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải là một_cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm thẩm_mĩ về cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác SGK Ngữ_văn 9 tập một Xác_định phương_thức biểu_đạt chính được sử_dụng trong đoạn_văn trên",
+        "options": [
+            "Tự_sự",
+            "Miêu_tả",
+            "Nghị_luận",
+            "Thuyết_minh"
+        ],
+        "answer": "Nghị_luận"
+    },
+    {
+        "id": 48,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời câu hỏi Và Người sống ở đó một_mình với một tư_trang ít_ỏi một chiếc va_li con với vài bộ áo_quần vài vật kỉ_niệm của cuộc_đời dài Tôi dám chắc không có một vị lãnh_tụ một vị tổng_thống hay một vị vua hiền nào ngày trước lại sống đến mức giản_dị và tiết_chế như_vậy Bất_giác ta nghĩ đến các vị hiền_triết ngày_xưa như Nguyễn_Trãi ở Côn_Sơn hay Nguyễn_Bỉnh_Khiêm sống ở quê nhà với những thú quê thuần đức Thu ăn măng trúc đông ăn_giá Xuân tắm hồ_sen hạ tắm ao Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải là một_cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm thẩm_mĩ về cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác SGK Ngữ_văn 9 tập một Đoạn trích trên được trích trong văn_bản của tác_giả nào",
+        "options": [
+            "Phạm_Văn_Đồng",
+            "Lê_Duẩn",
+            "Lê_Anh_Trà",
+            "Tố_Hữu"
+        ],
+        "answer": "Lê_Anh_Trà"
+    },
+    {
+        "id": 49,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời câu hỏi Và Người sống ở đó một_mình với một tư_trang ít_ỏi một chiếc va_li con với vài bộ áo_quần vài vật kỉ_niệm của cuộc_đời dài Tôi dám chắc không có một vị lãnh_tụ một vị tổng_thống hay một vị vua hiền nào ngày trước lại sống đến mức giản_dị và tiết_chế như_vậy Bất_giác ta nghĩ đến các vị hiền_triết ngày_xưa như Nguyễn_Trãi ở Côn_Sơn hay Nguyễn_Bỉnh_Khiêm sống ở quê nhà với những thú quê thuần đức Thu ăn măng trúc đông ăn_giá Xuân tắm hồ_sen hạ tắm ao Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải là một_cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm thẩm_mĩ về cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác SGK Ngữ_văn 9 tập một Cụm_từ di_dưỡng tinh_thần trong đoạn trích được hiểu là",
+        "options": [
+            "Không tiếp_xúc với thị_phi để tinh_thần thanh_thản",
+            "Ăn_uống đủ dinh_dưỡng để tinh_thần thoải_mái",
+            "Di_chuyển đến nhiều nơi để tinh_thần sảng_khoái",
+            "Tu_luyện và nuôi_dưỡng để tinh_thần phong_phú hơn"
+        ],
+        "answer": "Di_chuyển đến nhiều nơi để tinh_thần sảng_khoái"
+    },
+    {
+        "id": 50,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời câu hỏi Và Người sống ở đó một_mình với một tư_trang ít_ỏi một chiếc va_li con với vài bộ áo_quần vài vật kỉ_niệm của cuộc_đời dài Tôi dám chắc không có một vị lãnh_tụ một vị tổng_thống hay một vị vua hiền nào ngày trước lại sống đến mức giản_dị và tiết_chế như_vậy Bất_giác ta nghĩ đến các vị hiền_triết ngày_xưa như Nguyễn_Trãi ở Côn_Sơn hay Nguyễn_Bỉnh_Khiêm sống ở quê nhà với những thú quê thuần đức Thu ăn măng trúc đông ăn_giá Xuân tắm hồ_sen hạ tắm ao Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải là một_cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm thẩm_mĩ về cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác SGK Ngữ_văn 9 tập một Điểm giống nhau giữa Chủ_Tịch Hồ_Chí_Minh với Nguyễn_Trãi Nguyễn_Bỉnh Khiêm được nhắc trong văn_bản là",
+        "options": [
+            "Có nhân cách đạo_đức sống giản_dị thanh_cao",
+            "Có quyền_lực cao trong xã_hội",
+            "Đều thích ở_ẩn không màng danh_lợi",
+            "Thích sống ngao_du đó_đây tận_hưởng cuộc_sống"
+        ],
+        "answer": "Đều thích ở_ẩn không màng danh_lợi"
+    },
+    {
+        "id": 51,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời câu hỏi Và Người sống ở đó một_mình với một tư_trang ít_ỏi một chiếc va_li con với vài bộ áo_quần vài vật kỉ_niệm của cuộc_đời dài Tôi dám chắc không có một vị lãnh_tụ một vị tổng_thống hay một vị vua hiền nào ngày trước lại sống đến mức giản_dị và tiết_chế như_vậy Bất_giác ta nghĩ đến các vị hiền_triết ngày_xưa như Nguyễn_Trãi ở Côn_Sơn hay Nguyễn_Bỉnh_Khiêm sống ở quê nhà với những thú quê thuần đức Thu ăn măng trúc đông ăn_giá Xuân tắm hồ_sen hạ tắm ao Nếp sống giản_dị và thanh_đạm của Bác_Hồ cũng như các vị danh_nho xưa hoàn_toàn không phải là một_cách tự thần_thánh_hoá tự làm cho khác đời hơn đời mà đây là lối sống thanh_cao một_cách di_dưỡng tinh_thần một quan_niệm thẩm_mĩ về cuộc_sống có khả_năng đem lại hạnh_phúc thanh_cao cho tâm_hồn và thể_xác SGK Ngữ_văn 9 tập một Từ Hán_Việt nào dưới đây không được nhắc tới trong đoạn trích trên",
+        "options": [
+            "Tư_trang",
+            "Thiên_địa",
+            "Tiết_chế",
+            "Thanh_cao"
+        ],
+        "answer": "Tiết_chế"
+    },
+    {
+        "id": 52,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi 1 Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như Chủ_tịch Hồ_Chí_Minh 2 Đến đâu Người cũng học_hỏi tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm 3 Người cũng chịu ảnh_hưởng của tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực của chủ_nghĩa_tư_bản 4 Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá dân_tộc không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng cũng đồng_thời rất mới rất hiện_đại Trích_Phong cách Hồ_Chí_Minh Lê_Anh_Trà_SGK Ngữ_văn 9 tập một Xác_định thể_loại của văn_bản Phong_cách Hồ_Chí_Minh",
+        "options": [
+            "Truyện_ngắn",
+            "Tiểu_thuyết",
+            "Văn_bản nhật_dụng",
+            "Tản_văn"
+        ],
+        "answer": "Văn_bản nhật_dụng"
+    },
+    {
+        "id": 53,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi 1 Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như Chủ_tịch Hồ_Chí_Minh 2 Đến đâu Người cũng học_hỏi tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm 3 Người cũng chịu ảnh_hưởng của tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực của chủ_nghĩa_tư_bản 4 Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá dân_tộc không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng cũng đồng_thời rất mới rất hiện_đại Trích_Phong cách Hồ_Chí_Minh Lê_Anh_Trà_SGK Ngữ_văn 9 tập một Biện_pháp tu_từ nổi_bật trong đoạn văn trên là",
+        "options": [
+            "Nhân_hoá so_sánh",
+            "Nói quá câu hỏi tu_từ",
+            "Điệp từ liệt_kê",
+            "Nói giảm nói tránh"
+        ],
+        "answer": "Điệp từ liệt_kê"
+    },
+    {
+        "id": 54,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi 1 Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như Chủ_tịch Hồ_Chí_Minh 2 Đến đâu Người cũng học_hỏi tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm 3 Người cũng chịu ảnh_hưởng của tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực của chủ_nghĩa_tư_bản 4 Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá dân_tộc không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng cũng đồng_thời rất mới rất hiện_đại Trích_Phong cách Hồ_Chí_Minh Lê_Anh_Trà_SGK Ngữ_văn 9 tập một Ở phần trích trên tác_giả đã cho thấy vẻ đẹp của phong_cách Hồ_Chí_Minh được kết_hợp hài_hoà bởi những yếu_tố nào",
+        "options": [
+            "Cổ_truyền và hiện_đại",
+            "Mới và hiện_đại",
+            "Lai_tạo văn_hoá của các nước phương Tây",
+            "Cổ_truyền và phong_kiến"
+        ],
+        "answer": "Lai_tạo văn_hoá của các nước phương Tây"
+    },
+    {
+        "id": 55,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi 1 Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như Chủ_tịch Hồ_Chí_Minh 2 Đến đâu Người cũng học_hỏi tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm 3 Người cũng chịu ảnh_hưởng của tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực của chủ_nghĩa_tư_bản 4 Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá dân_tộc không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng cũng đồng_thời rất mới rất hiện_đại Trích_Phong cách Hồ_Chí_Minh Lê_Anh_Trà_SGK Ngữ_văn 9 tập một Phép liên_kết được sử_dụng trong câu 1 và 2 là",
+        "options": [
+            "Phép nối",
+            "Phép thế",
+            "Phép lặp",
+            "Phép liên_tưởng"
+        ],
+        "answer": "Phép lặp"
+    },
+    {
+        "id": 56,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi 1 Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như Chủ_tịch Hồ_Chí_Minh 2 Đến đâu Người cũng học_hỏi tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm 3 Người cũng chịu ảnh_hưởng của tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực của chủ_nghĩa_tư_bản 4 Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá dân_tộc không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng cũng đồng_thời rất mới rất hiện_đại Trích_Phong cách Hồ_Chí_Minh Lê_Anh_Trà_SGK Ngữ_văn 9 tập một Đoạn trích trên gửi_gắm bài_học nào cho giới trẻ hiện_nay",
+        "options": [
+            "Ăn_mặc giản_dị phù_hợp với truyền_thống dân_tộc",
+            "Kiên_cường anh_dũng trong bảo_vệ đất_nước",
+            "Tiếp_thu văn_hoá mới có chọn_lọc và giữ_gìn văn_hoá truyền_thống",
+            "Đoàn_kết đùm_bọc nhân_dân"
+        ],
+        "answer": "Tiếp_thu văn_hoá mới có chọn_lọc và giữ_gìn văn_hoá truyền_thống"
+    },
+    {
+        "id": 57,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi Trong cuộc_đời đầy truân_chuyên của mình chủ_tịch Hồ_Chí_Minh đã tiếp_xúc với văn_hoá nhiều nước nhiều vùng trên thế_giới cả phương Đông và phương Tây_Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga và Người đã làm nhiều nghề Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như chủ_tịch Hồ_Chí_Minh Đến đâu Người cũng học_hỏi và tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm Người cũng chịu ảnh_hưởng tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng đồng_thời cũng rất mới rất hiện_đại Phong_cách Hồ_Chí_Minh Lê_Anh_Trà in trong cuốn Hồ_Chí_Minh và văn_hoá Việt_Nam 1990 Theo quan_điểm của tác_giả đoạn trích nét phong_cách nổi_bật của Hồ_Chí_Minh là gì",
+        "options": [
+            "Có lối sống bình_dị hiện_đại",
+            "Xa_hoa sang_trọng",
+            "Hiện_đại tối_tân",
+            "Cả ba phương_án trên"
+        ],
+        "answer": "Hiện_đại tối_tân"
+    },
+    {
+        "id": 58,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi Trong cuộc_đời đầy truân_chuyên của mình chủ_tịch Hồ_Chí_Minh đã tiếp_xúc với văn_hoá nhiều nước nhiều vùng trên thế_giới cả phương Đông và phương Tây_Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga và Người đã làm nhiều nghề Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như chủ_tịch Hồ_Chí_Minh Đến đâu Người cũng học_hỏi và tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm Người cũng chịu ảnh_hưởng tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng đồng_thời cũng rất mới rất hiện_đại Phong_cách Hồ_Chí_Minh Lê_Anh_Trà in trong cuốn Hồ_Chí_Minh và văn_hoá Việt_Nam 1990 Phương_thức biểu_đạt chính của đoạn trích trên là",
+        "options": [
+            "Tự_sự",
+            "Miêu_tả",
+            "Nghị_luận",
+            "Thuyết_minh"
+        ],
+        "answer": "Nghị_luận"
+    },
+    {
+        "id": 59,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi Trong cuộc_đời đầy truân_chuyên của mình chủ_tịch Hồ_Chí_Minh đã tiếp_xúc với văn_hoá nhiều nước nhiều vùng trên thế_giới cả phương Đông và phương Tây_Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga và Người đã làm nhiều nghề Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như chủ_tịch Hồ_Chí_Minh Đến đâu Người cũng học_hỏi và tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm Người cũng chịu ảnh_hưởng tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng đồng_thời cũng rất mới rất hiện_đại Phong_cách Hồ_Chí_Minh Lê_Anh_Trà in trong cuốn Hồ_Chí_Minh và văn_hoá Việt_Nam 1990 Đoạn văn sau tác_giả đã sử_dụng phép liên_kết nào Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga Và Người đã làm nhiều nghề",
+        "options": [
+            "Phép lặp phép nối",
+            "Phép thế phép nối",
+            "Phép lặp phép liên_tưởng",
+            "Phép thế phép liên_tưởng"
+        ],
+        "answer": "Phép lặp phép liên_tưởng"
+    },
+    {
+        "id": 60,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi Trong cuộc_đời đầy truân_chuyên của mình chủ_tịch Hồ_Chí_Minh đã tiếp_xúc với văn_hoá nhiều nước nhiều vùng trên thế_giới cả phương Đông và phương Tây_Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga và Người đã làm nhiều nghề Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như chủ_tịch Hồ_Chí_Minh Đến đâu Người cũng học_hỏi và tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm Người cũng chịu ảnh_hưởng tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng đồng_thời cũng rất mới rất hiện_đại Phong_cách Hồ_Chí_Minh Lê_Anh_Trà in trong cuốn Hồ_Chí_Minh và văn_hoá Việt_Nam 1990 Xác_định phép tu_từ nổi_bật được sử_dụng trong đoạn văn Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga Và Người đã làm nhiều nghề",
+        "options": [
+            "Hoán_dụ ẩn_dụ",
+            "Ẩn_dụ điệp_ngữ",
+            "Điệp từ liệt_kê",
+            "Nói giảm nói tránh"
+        ],
+        "answer": "Điệp từ liệt_kê"
+    },
+    {
+        "id": 61,
+        "subject": "Văn_học",
+        "question": "Đọc đoạn trích sau và trả_lời các câu hỏi Trong cuộc_đời đầy truân_chuyên của mình chủ_tịch Hồ_Chí_Minh đã tiếp_xúc với văn_hoá nhiều nước nhiều vùng trên thế_giới cả phương Đông và phương Tây_Trên những con tàu vượt trùng_dương Người đã ghé lại nhiều hải_cảng đã thăm các nước châu_Phi châu_Á_châu Mĩ_Người đã sống dài ngày ở Pháp ở Anh Người nói và viết thạo nhiều thứ tiếng ngoại_quốc Pháp Anh_Hoa Nga và Người đã làm nhiều nghề Có_thể nói ít có vị lãnh_tụ nào lại am_hiểu nhiều về các dân_tộc và nhân_dân thế_giới văn_hoá thế_giới sâu_sắc như chủ_tịch Hồ_Chí_Minh Đến đâu Người cũng học_hỏi và tìm_hiểu văn_hoá nghệ_thuật đến một mức khá uyên_thâm Người cũng chịu ảnh_hưởng tất_cả các nền văn_hoá đã tiếp_thu mọi cái đẹp và cái hay đồng_thời với việc phê_phán những tiêu_cực Nhưng điều kì_lạ là tất_cả những ảnh_hưởng quốc_tế đó đã nhào_nặn với cái gốc văn_hoá không gì lay_chuyển được ở Người để trở_thành một nhân_cách rất Việt_Nam một lối sống rất bình_dị rất Việt_Nam rất phương Đông nhưng đồng_thời cũng rất mới rất hiện_đại Phong_cách Hồ_Chí_Minh Lê_Anh_Trà in trong cuốn Hồ_Chí_Minh và văn_hoá Việt_Nam 1990 Qua đoạn trích trên em học_tập được những gì từ cách tiếp_thu văn_hoá các nước của Bác",
+        "options": [
+            "Tiếp_thu những thứ mới_mẻ loại_trừ những thứ_lỗi thời",
+            "Tiếp_thu văn_hoá có chọn_lọc",
+            "Không dung_nạp cái ngoại_lai",
+            "Chỉ tiếp_thu văn_hoá phương Đông"
+        ],
+        "answer": "Không dung_nạp cái ngoại_lai"
+    }
+]
