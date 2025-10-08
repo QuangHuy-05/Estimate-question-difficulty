@@ -4,10 +4,10 @@ Câu 1:
 Môn: anh
 Câu hỏi: From each number pick out the word whose underlined part is pronounced differently from the others
 Các đáp án:
-  1. A out
-  2. B round
-  3. C about
-  4. D would
+  A. out
+  B. round
+  C. about
+  D. would
 Đáp án đúng: None
 Giải thích: D w ou ld
 
@@ -17,10 +17,10 @@ Câu 2:
 Môn: anh
 Câu hỏi: From each number pick out the word whose underlined part is pronounced differently from the others
 Các đáp án:
-  1. A chair
-  2. B check
-  3. C machine
-  4. D child
+  A. chair
+  B. check
+  C. machine
+  D. child
 Đáp án đúng: None
 Giải thích: C ma ch i ne
 
@@ -30,10 +30,10 @@ Câu 3:
 Môn: anh
 Câu hỏi: From each number pick out the word whose underlined part is pronounced differently from the others
 Các đáp án:
-  1. A too
-  2. B soon
-  3. C good
-  4. D food
+  A. too
+  B. soon
+  C. good
+  D. food
 Đáp án đúng: None
 Giải thích: C g oo d
 
@@ -43,10 +43,10 @@ Câu 4:
 Môn: anh
 Câu hỏi: From each number pick out the word whose underlined part is pronounced differently from the others
 Các đáp án:
-  1. A though
-  2. B enough
-  3. C cough
-  4. D rough
+  A. though
+  B. enough
+  C. cough
+  D. rough
 Đáp án đúng: None
 Giải thích: A thou gh
 
@@ -56,10 +56,10 @@ Câu 5:
 Môn: anh
 Câu hỏi: From each number pick out the word whose underlined part is pronounced differently from the others
 Các đáp án:
-  1. A happy
-  2. B hour
-  3. C high
-  4. D hotel
+  A. happy
+  B. hour
+  C. high
+  D. hotel
 Đáp án đúng: None
 Giải thích: B h our
 
@@ -69,10 +69,10 @@ Câu 6:
 Môn: anh
 Câu hỏi: I have no idea what  the traditional drums
 Các đáp án:
-  1. A to buy
-  2. B buy
-  3. C bought
-  4. D buys
+  A. to buy
+  B. buy
+  C. bought
+  D. buys
 Đáp án đúng: None
 Giải thích: A
 
@@ -82,10 +82,10 @@ Câu 7:
 Môn: anh
 Câu hỏi: Minhs father often takes him  the park every summer
 Các đáp án:
-  1. A on
-  2. B to
-  3. C in
-  4. D after
+  A. on
+  B. to
+  C. in
+  D. after
 Đáp án đúng: None
 Giải thích: B
 
@@ -95,10 +95,10 @@ Câu 8:
 Môn: anh
 Câu hỏi: A I won the first prize in the English speaking contest  B
 Các đáp án:
-  1. A Stay calm Everything will be alright
-  2. B Congratulation
-  3. C If I were you I would get some sleep
-  4. D I understand how you feel
+  A. Stay calm Everything will be alright
+  B. Congratulation
+  C. If I were you I would get some sleep
+  D. I understand how you feel
 Đáp án đúng: None
 Giải thích: A
 
@@ -108,10 +108,10 @@ Câu 9:
 Môn: anh
 Câu hỏi: My father gave up smoking two years ago
 Các đáp án:
-  1. A liked
-  2. B continued
-  3. C stopped
-  4. D enjoyed
+  A. liked
+  B. continued
+  C. stopped
+  D. enjoyed
 Đáp án đúng: None
 Giải thích: C
 
@@ -121,10 +121,10 @@ Câu 10:
 Môn: anh
 Câu hỏi: my cousin is young she is one of the most skillful artisan in Bat Trang village
 Các đáp án:
-  1. A When
-  2. B Although
-  3. C Whereas
-  4. D In order to
+  A. When
+  B. Although
+  C. Whereas
+  D. In order to
 Đáp án đúng: None
 Giải thích: C
 
@@ -134,10 +134,10 @@ Câu 11:
 Môn: anh
 Câu hỏi: The amusement centre is so small that they cannot  the demand of the local residents
 Các đáp án:
-  1. A keep up with
-  2. B face up to
-  3. C deal about
-  4. D set up
+  A. keep up with
+  B. face up to
+  C. deal about
+  D. set up
 Đáp án đúng: None
 Giải thích: C
 
@@ -147,10 +147,10 @@ Câu 12:
 Môn: anh
 Câu hỏi: Karachi is  city in the world population
 Các đáp án:
-  1. A the two largest
-  2. B the two larger
-  3. C The second largest
-  4. D the second larger
+  A. the two largest
+  B. the two larger
+  C. The second largest
+  D. the second larger
 Đáp án đúng: None
 Giải thích: D
 
@@ -160,10 +160,10 @@ Câu 13:
 Môn: anh
 Câu hỏi: He wondered  his parents what he really thought
 Các đáp án:
-  1. A whether he tell
-  2. B whether tell
-  3. C whether to tell
-  4. D whether telling
+  A. whether he tell
+  B. whether tell
+  C. whether to tell
+  D. whether telling
 Đáp án đúng: None
 Giải thích: B
 
@@ -173,10 +173,10 @@ Câu 14:
 Môn: anh
 Câu hỏi: My parents once took me to Bat Trang village I could make my own  there I really enjoyed it
 Các đáp án:
-  1. A pottery
-  2. B lacquer
-  3. C painting
-  4. D sculpture
+  A. pottery
+  B. lacquer
+  C. painting
+  D. sculpture
 Đáp án đúng: None
 Giải thích: B
 
@@ -186,10 +186,10 @@ Câu 15:
 Môn: anh
 Câu hỏi: hes spent a lot of money to decorate his shop he cannot make any more profit
 Các đáp án:
-  1. A In order to
-  2. B Although
-  3. C So that
-  4. D Because of
+  A. In order to
+  B. Although
+  C. So that
+  D. Because of
 Đáp án đúng: None
 Giải thích: A
 
@@ -199,10 +199,10 @@ Câu 16:
 Môn: anh
 Câu hỏi: Read the following passage and circle the letter A B C or D to indicate the correct word My village is 1 Hoa Binh Province It is a very beautiful and 2 place where people 3 flowers and vegetables only It is very famous for its pretty roses and picturesque scenery The air is quite fresh however the smell of roses makes people feel cool In spring my village looks like a carpet with plenty of 4  Tourists come to visit it so often Nowadays with electricity and labor saving devices it doesnt take the villagers 5 time to water the roses And even at night People can walk along the path and enjoy the fresh smell of the flowers Questions 1
 Các đáp án:
-  1. A on
-  2. B for
-  3. C in
-  4. D at
+  A. on
+  B. for
+  C. in
+  D. at
 Đáp án đúng: None
 Giải thích: C in
 
@@ -212,10 +212,10 @@ Câu 17:
 Môn: anh
 Câu hỏi: Read the following passage and circle the letter A B C or D to indicate the correct word My village is 1 Hoa Binh Province It is a very beautiful and 2 place where people 3 flowers and vegetables only It is very famous for its pretty roses and picturesque scenery The air is quite fresh however the smell of roses makes people feel cool In spring my village looks like a carpet with plenty of 4  Tourists come to visit it so often Nowadays with electricity and labor saving devices it doesnt take the villagers 5 time to water the roses And even at night People can walk along the path and enjoy the fresh smell of the flowers Questions 2
 Các đáp án:
-  1. A peace
-  2. B peaceful
-  3. C peacefully
-  4. D quite
+  A. peace
+  B. peaceful
+  C. peacefully
+  D. quite
 Đáp án đúng: None
 Giải thích: B peaceful
 
@@ -225,10 +225,10 @@ Câu 18:
 Môn: anh
 Câu hỏi: Read the following passage and circle the letter A B C or D to indicate the correct word My village is 1 Hoa Binh Province It is a very beautiful and 2 place where people 3 flowers and vegetables only It is very famous for its pretty roses and picturesque scenery The air is quite fresh however the smell of roses makes people feel cool In spring my village looks like a carpet with plenty of 4  Tourists come to visit it so often Nowadays with electricity and labor saving devices it doesnt take the villagers 5 time to water the roses And even at night People can walk along the path and enjoy the fresh smell of the flowers Questions 3
 Các đáp án:
-  1. A grow
-  2. B buy
-  3. C grew
-  4. D bought
+  A. grow
+  B. buy
+  C. grew
+  D. bought
 Đáp án đúng: None
 Giải thích: A grow
 
@@ -238,10 +238,10 @@ Câu 19:
 Môn: anh
 Câu hỏi: Read the following passage and circle the letter A B C or D to indicate the correct word My village is 1 Hoa Binh Province It is a very beautiful and 2 place where people 3 flowers and vegetables only It is very famous for its pretty roses and picturesque scenery The air is quite fresh however the smell of roses makes people feel cool In spring my village looks like a carpet with plenty of 4  Tourists come to visit it so often Nowadays with electricity and labor saving devices it doesnt take the villagers 5 time to water the roses And even at night People can walk along the path and enjoy the fresh smell of the flowers Question 4
 Các đáp án:
-  1. A colors
-  2. B marks
-  3. C spots
-  4. D styles
+  A. colors
+  B. marks
+  C. spots
+  D. styles
 Đáp án đúng: None
 Giải thích: A colors
 
@@ -251,10 +251,10 @@ Câu 20:
 Môn: anh
 Câu hỏi: Read the following passage and circle the letter A B C or D to indicate the correct word My village is 1 Hoa Binh Province It is a very beautiful and 2 place where people 3 flowers and vegetables only It is very famous for its pretty roses and picturesque scenery The air is quite fresh however the smell of roses makes people feel cool In spring my village looks like a carpet with plenty of 4  Tourists come to visit it so often Nowadays with electricity and labor saving devices it doesnt take the villagers 5 time to water the roses And even at night People can walk along the path and enjoy the fresh smell of the flowers Question 5
 Các đáp án:
-  1. A many
-  2. B a few
-  3. C a lot
-  4. D much
+  A. many
+  B. a few
+  C. a lot
+  D. much
 Đáp án đúng: None
 Giải thích: D much
 
@@ -264,10 +264,10 @@ Câu 21:
 Môn: anh
 Câu hỏi: Choose the word which contains the vowel sound pronounced differently from that of the others
 Các đáp án:
-  1. a publish
-  2. b tunic
-  3. c subject
-  4. d love
+  a publish
+  b tunic
+  c subject
+  d love
 Đáp án đúng: B
 
 --------------------------------------------------
@@ -276,10 +276,10 @@ Câu 22:
 Môn: anh
 Câu hỏi: Choose the word which contains the vowel sound pronounced differently from that of the others
 Các đáp án:
-  1. a hike
-  2. b style
-  3. c stripe
-  4. d slit
+  a hike
+  b style
+  c stripe
+  d slit
 Đáp án đúng: D
 
 --------------------------------------------------
@@ -288,10 +288,10 @@ Câu 23:
 Môn: anh
 Câu hỏi: Choose the word which contains the vowel sound pronounced differently from that of the others
 Các đáp án:
-  1. a grow
-  2. b plow
-  3. c now
-  4. d house
+  a grow
+  b plow
+  c now
+  d house
 Đáp án đúng: A
 
 --------------------------------------------------
@@ -300,10 +300,10 @@ Câu 24:
 Môn: anh
 Câu hỏi: Choose the word which contains the vowel sound pronounced differently from that of the others
 Các đáp án:
-  1. a order
-  2. b course
-  3. c ghost
-  4. d cross
+  a order
+  b course
+  c ghost
+  d cross
 Đáp án đúng: C
 
 --------------------------------------------------
@@ -312,10 +312,10 @@ Câu 25:
 Môn: anh
 Câu hỏi: Choose the word which contains the vowel sound pronounced differently from that of the others
 Các đáp án:
-  1. a notice
-  2. b mosque
-  3. c grow
-  4. d poetry
+  a notice
+  b mosque
+  c grow
+  d poetry
 Đáp án đúng: B
 
 --------------------------------------------------
@@ -324,10 +324,10 @@ Câu 26:
 Môn: anh
 Câu hỏi: Choose a b c or d to complete these sentences They _________ Da Lat last summer
 Các đáp án:
-  1. a visit
-  2. b to visit
-  3. c visited
-  4. d visiting
+  a visit
+  b to visit
+  c visited
+  d visiting
 Đáp án đúng: C
 
 --------------------------------------------------
@@ -336,10 +336,10 @@ Câu 27:
 Môn: anh
 Câu hỏi: We have learnt English_________2003
 Các đáp án:
-  1. a for
-  2. b since
-  3. c in
-  4. d at
+  a for
+  b since
+  c in
+  d at
 Đáp án đúng: B
 
 --------------------------------------------------
@@ -348,10 +348,10 @@ Câu 28:
 Môn: anh
 Câu hỏi: Ba cant fly He wishes he_________fly
 Các đáp án:
-  1. a can
-  2. b will
-  3. c is
-  4. d could
+  a can
+  b will
+  c is
+  d could
 Đáp án đúng: D
 Giải thích: S wish S V lùi thì
 
@@ -361,10 +361,10 @@ Câu 29:
 Môn: anh
 Câu hỏi: He is a teacher _________
 Các đáp án:
-  1. a is he
-  2. b doesnt he
-  3. c wasnt he
-  4. d isnt he
+  a is he
+  b doesnt he
+  c wasnt he
+  d isnt he
 Đáp án đúng: D
 
 --------------------------------------------------
@@ -373,10 +373,10 @@ Câu 30:
 Môn: anh
 Câu hỏi: He is tired _________ he has to stay up late
 Các đáp án:
-  1. a therefore
-  2. b so
-  3. c and
-  4. d but
+  a therefore
+  b so
+  c and
+  d but
 Đáp án đúng: D
 
 --------------------------------------------------
@@ -385,10 +385,10 @@ Câu 31:
 Môn: anh
 Câu hỏi: The car_________ in Japan
 Các đáp án:
-  1. a is made
-  2. b makes
-  3. c made
-  4. d are made
+  a is made
+  b makes
+  c made
+  d are made
 Đáp án đúng: A
 
 --------------------------------------------------
@@ -397,10 +397,10 @@ Câu 32:
 Môn: anh
 Câu hỏi: Tom said that he_________ in the city
 Các đáp án:
-  1. a living
-  2. b to visit
-  3. c visited
-  4. d visiting
+  a living
+  b to visit
+  c visited
+  d visiting
 Đáp án đúng: C
 
 --------------------------------------------------
@@ -409,10 +409,10 @@ Câu 33:
 Môn: anh
 Câu hỏi: Lets play soccer _________
 Các đáp án:
-  1. a arent you
-  2. b wont you
-  3. c will we
-  4. d shall we
+  a arent you
+  b wont you
+  c will we
+  d shall we
 Đáp án đúng: D
 
 --------------------------------------------------
@@ -421,10 +421,10 @@ Câu 34:
 Môn: anh
 Câu hỏi: I used to_________ up late when I was a child
 Các đáp án:
-  1. a getting
-  2. b got
-  3. c get
-  4. d to get
+  a getting
+  b got
+  c get
+  d to get
 Đáp án đúng: C
 
 --------------------------------------------------
@@ -433,10 +433,10 @@ Câu 35:
 Môn: anh
 Câu hỏi: He_________ playing guitar at night
 Các đáp án:
-  1. a is used to
-  2. b used to
-  3. c use to
-  4. d are used to
+  a is used to
+  b used to
+  c use to
+  d are used to
 Đáp án đúng: A
 
 --------------------------------------------------
