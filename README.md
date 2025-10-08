@@ -1,4 +1,4 @@
-# 🎓 Estimate Question Difficulty
+# Estimate Question Difficulty
 
 An AI-powered system that predicts and classifies the difficulty level of exam questions using NLP and machine learning.
 
@@ -16,7 +16,7 @@ An AI-powered system that predicts and classifies the difficulty level of exam q
 - Multi-subject support: Literature, Geography, English, etc.
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Backend / ML:**
 - Python 3.10+
@@ -30,7 +30,7 @@ An AI-powered system that predicts and classifies the difficulty level of exam q
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 # Clone the repo
